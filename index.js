@@ -5,3 +5,7 @@ function shout(string){
 function wisper(string) {
   return string.toLowerCase()
 }
+
+function logShout(string){
+  console.log(string.toUpperCase())
+}
